@@ -1,4 +1,7 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingbeom&show_icons=true&theme=monokai) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingbeom&theme=monokai)
+### Hi There😊
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingbeom&show_icons=true&theme=monokai)
+### Top-langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingbeom&theme=monokai)
 
 
 <!--
